@@ -3,7 +3,7 @@ Estudante Universitário<br>
 Moro em Macapá- Amapá - Brasil<br>
 Tenho 20 anos<br>
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Prog-Santos&show_icons=true&theme=dark&count_private=true&icon_color=00bfbf&bg_color=0d1117" alt="Gabriel Felipe github stats" /> <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prog-Santos&layout=compact&theme=dark&bg_color=0d1117" />
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Prog-Santos&show_icons=true&theme=dark&count_private=true&icon_color=00bfbf&bg_color=0d1117" alt="Levi Ambe github stats" /> <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prog-Santos&layout=compact&theme=dark&bg_color=0d1117" />
 
 ##
 <div> 
