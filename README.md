@@ -1,16 +1,15 @@
-## Hi there 👋
+##   Olá, Me chamo Levi Ambé e sou Programador
+Estudante Universitário<br>
+Moro em Macapá- Amapá - Brasil<br>
+Tenho 20 anos<br>
 
-<!--
-**Prog-Santos/Prog-Santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Prog-Santos&show_icons=true&theme=dark&count_private=true&icon_color=00bfbf&bg_color=0d1117" alt="Gabriel Felipe github stats" /> <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prog-Santos&layout=compact&theme=dark&bg_color=0d1117" />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+<div> 
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
